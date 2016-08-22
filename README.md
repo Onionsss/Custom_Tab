@@ -36,6 +36,7 @@ Java:
  //关联viewPager
 mIndicator.attachViewPager(mVp);
 ```
+https://github.com/Onionsss/Custom_Tab/blob/master/mytab/src/main/java/onionsss/it/mytab/MyTab.java
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/r.gif)
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/none.gif)
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/san.gif)
