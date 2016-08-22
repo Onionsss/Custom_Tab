@@ -14,6 +14,7 @@ xml:
         android:id="@+id/indicator"
         android:layout_width="match_parent"
         android:background="#000000"
+        //小图案  none  san  voal rectangle
         app:shape="none"
         app:textsize_d="@dimen/x7"
         app:textcolor_n="#ffffff"
