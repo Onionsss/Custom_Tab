@@ -26,7 +26,15 @@ xml:
         android:layout_width="match_parent"
         android:layout_height="match_parent"></android.support.v4.view.ViewPager>
 </LinearLayout>
-
+```
+Java:
+```Java
+  mVp.setAdapter(myAdapter);
+  //设置标题
+ mIndicator.setTitles(list);
+ //关联viewPager
+mIndicator.attachViewPager(mVp);
+```
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/r.gif)
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/none.gif)
 ![image](https://github.com/Onionsss/Custom_Tab/blob/master/imgae/san.gif)
