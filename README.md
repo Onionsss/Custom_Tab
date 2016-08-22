@@ -2,6 +2,7 @@
 自定义控件 tab 支持各种小图案
 
 xml:
+```Java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
