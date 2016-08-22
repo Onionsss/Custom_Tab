@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTab">
+        <attr name="visibleSize" format="integer"></attr>
+        <attr name="shape" format="string">
+            <enum name="san" value="1"></enum>
+            <enum name="rectangle" value="2"></enum>
+            <enum name="oval" value="3"></enum>
+            <enum name="none" value="4"></enum>
+        </attr>
+        <attr name="textcolor_n" format="color"></attr>
+        <attr name="textcolor_l" format="color"></attr>
+        <attr name="textsize_d" format="dimension"></attr>
+        <attr name="bottomColor" format="color"></attr>
+    </declare-styleable>
+</resources>
